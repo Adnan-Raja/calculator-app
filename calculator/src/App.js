@@ -2,13 +2,11 @@
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>
-         This is a Calculator.
-        </p>
-       
-      </header>
+    <div className="Calculator-grid">
+      <div className="output">
+        
+      </div>
+      
     </div>
   );
 }
